@@ -9,7 +9,6 @@ GSTMalaysia1218 is made up of Twitter data with GST-related tweets throughout th
 
 # Datasets
 Original Dataset  : 77,637 tweets from 11,628 users
-
 Preprocessed Dataset  : 8,829 tweets from 5,016 users
 
 # Additional Information
